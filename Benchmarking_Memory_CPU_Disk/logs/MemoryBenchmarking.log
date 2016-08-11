@@ -1,0 +1,91 @@
+
+
+Starting Memory Benchmarking for 1 thread(s)
+Sequential Read
+Block Size : 1
+Iterations : 100000000
+Time Taken : 946.894000 mSecs
+Latency : 9.468940 mSecs/mb
+ThroughPut : 105.608442 mb/sec
+
+Random Read
+Block Size : 1
+Iterations : 100000000
+Time Taken : 11469.152000 mSecs
+Latency : 114.691520 mSecs/mb
+ThroughPut : 8.719040 mb/sec
+
+Starting Memory Benchmarking for 2 thread(s)
+Sequential Read
+Block Size : 1
+Iterations : 100000000
+Time Taken : 1825.283000 mSecs
+Latency : 9.126415 mSecs/mb
+ThroughPut : 109.572050 mb/sec
+
+Random Read
+Block Size : 1
+Iterations : 100000000
+Time Taken : 22630.341000 mSecs
+Latency : 113.151705 mSecs/mb
+ThroughPut : 8.837693 mb/sec
+
+Starting Memory Benchmarking for 1 thread(s)
+Sequential Read
+Block Size : 1024
+Iterations : 100000
+Time Taken : 32.446000 mSecs
+Latency : 0.316855 mSecs/mb
+ThroughPut : 3156.013068 mb/sec
+
+Random Read
+Block Size : 1024
+Iterations : 100000
+Time Taken : 45.413000 mSecs
+Latency : 0.443486 mSecs/mb
+ThroughPut : 2254.860943 mb/sec
+
+Starting Memory Benchmarking for 2 thread(s)
+Sequential Read
+Block Size : 1024
+Iterations : 100000
+Time Taken : 43.478000 mSecs
+Latency : 0.212295 mSecs/mb
+ThroughPut : 4710.428263 mb/sec
+
+Random Read
+Block Size : 1024
+Iterations : 100000
+Time Taken : 89.189000 mSecs
+Latency : 0.435493 mSecs/mb
+ThroughPut : 2296.247295 mb/sec
+
+Starting Memory Benchmarking for 1 thread(s)
+Sequential Read
+Block Size : 1048576
+Iterations : 100
+Time Taken : 29.298000 mSecs
+Latency : 0.279408 mSecs/mb
+ThroughPut : 3579.001980 mb/sec
+
+Random Read
+Block Size : 1048576
+Iterations : 100
+Time Taken : 14.254000 mSecs
+Latency : 0.135937 mSecs/mb
+ThroughPut : 7356.363126 mb/sec
+
+Starting Memory Benchmarking for 2 thread(s)
+Sequential Read
+Block Size : 1048576
+Iterations : 100
+Time Taken : 40.578000 mSecs
+Latency : 0.193491 mSecs/mb
+ThroughPut : 5168.199517 mb/sec
+
+Random Read
+Block Size : 1048576
+Iterations : 100
+Time Taken : 28.192000 mSecs
+Latency : 0.134430 mSecs/mb
+ThroughPut : 7438.819523 mb/sec

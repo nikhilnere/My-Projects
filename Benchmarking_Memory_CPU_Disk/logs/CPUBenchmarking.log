@@ -1,0 +1,31 @@
+
+
+Starting CPU Benchmarking (IOPS) for 1 thread(s)
+Time Taken : 2.094760 mSec
+Number of IOPS : 9547633141.744162
+Number of ILOPS : 9.547633
+
+Starting CPU Benchmarking (IOPS) for 2 thread(s)
+Time Taken : 4.192235 mSec
+Number of IOPS : 9541449847.157900
+Number of ILOPS : 9.541450
+
+Starting CPU Benchmarking (IOPS) for 4 thread(s)
+Time Taken : 8.395716 mSec
+Number of IOPS : 9528669145.073511
+Number of ILOPS : 9.528669
+
+Starting CPU Benchmarking (FLOPS) for 1 thread(s)
+Time Taken : 2.476833 mSec
+Number of FLOPS : 8074827814.390392
+Number of GFLOPS : 8.074828
+
+Starting CPU Benchmarking (FLOPS) for 2 thread(s)
+Time Taken : 4.966931 mSec
+Number of FLOPS : 8053262668.637837
+Number of GFLOPS : 8.053263
+
+Starting CPU Benchmarking (FLOPS) for 4 thread(s)
+Time Taken : 10.237301 mSec
+Number of FLOPS : 7814559716.472144
+Number of GFLOPS : 7.814560

@@ -1,0 +1,205 @@
+
+
+Starting Disk Write Benchmarking for 1 thread(s)
+Sequential Write
+Block Size : 1
+Iterations : 100000000
+File Name : temp1
+Time Taken : 2907.175000 mSecs
+Latency : 29.071750 mSecs/mb
+ThroughPut : 34.397654 mb/sec
+
+Random Write
+Block Size : 1
+Iterations : 100000000
+File Name : temp1_rand
+Time Taken : 117142.164000 mSecs
+Latency : 1171.421640 mSecs/mb
+ThroughPut : 0.853664 mb/sec
+
+Starting Disk Write Benchmarking for 2 thread(s)
+Sequential Write
+Block Size : 1
+Iterations : 100000000
+File Name : temp2
+Time Taken : 5821.622000 mSecs
+Latency : 29.108110 mSecs/mb
+ThroughPut : 34.354687 mb/sec
+
+Random Write
+Block Size : 1
+Iterations : 100000000
+File Name : temp2_rand
+Time Taken : 260669.119000 mSecs
+Latency : 1303.345595 mSecs/mb
+ThroughPut : 0.767256 mb/sec
+
+Starting Disk Write Benchmarking for 1 thread(s)
+Sequential Write
+Block Size : 1024
+Iterations : 100000
+File Name : temp3
+Time Taken : 68.681000 mSecs
+Latency : 0.670713 mSecs/mb
+ThroughPut : 1490.950918 mb/sec
+
+Random Write
+Block Size : 1024
+Iterations : 100000
+File Name : temp3_rand
+Time Taken : 168.497000 mSecs
+Latency : 1.645479 mSecs/mb
+ThroughPut : 607.725954 mb/sec
+
+Starting Disk Write Benchmarking for 2 thread(s)
+Sequential Write
+Block Size : 1024
+Iterations : 100000
+File Name : temp4
+Time Taken : 143.324000 mSecs
+Latency : 0.699824 mSecs/mb
+ThroughPut : 1428.930256 mb/sec
+
+Random Write
+Block Size : 1024
+Iterations : 100000
+File Name : temp4_rand
+Time Taken : 339.694000 mSecs
+Latency : 1.658662 mSecs/mb
+ThroughPut : 602.895547 mb/sec
+
+Starting Disk Write Benchmarking for 1 thread(s)
+Sequential Write
+Block Size : 1048576
+Iterations : 100
+File Name : temp5
+Time Taken : 57.482000 mSecs
+Latency : 0.548191 mSecs/mb
+ThroughPut : 1824.181483 mb/sec
+
+Random Write
+Block Size : 1048576
+Iterations : 100
+File Name : temp5_rand
+Time Taken : 57.721000 mSecs
+Latency : 0.550470 mSecs/mb
+ThroughPut : 1816.628264 mb/sec
+
+Starting Disk Write Benchmarking for 2 thread(s)
+Sequential Write
+Block Size : 1048576
+Iterations : 100
+File Name : temp6
+Time Taken : 113.642000 mSecs
+Latency : 0.541887 mSecs/mb
+ThroughPut : 1845.402228 mb/sec
+
+Random Write
+Block Size : 1048576
+Iterations : 100
+File Name : temp6_rand
+Time Taken : 115.070000 mSecs
+Latency : 0.548697 mSecs/mb
+ThroughPut : 1822.501086 mb/sec
+
+Starting Disk Read Benchmarking for 1 thread(s)
+Sequential Read
+Block Size : 1
+Iterations : 100000000
+File Name : temp1
+Time Taken : 3139.058000 mSecs
+Latency : 31.390580 mSecs/mb
+ThroughPut : 31.856691 mb/sec
+
+Random Read
+Block Size : 1
+Iterations : 100000000
+File Name : temp1_rand
+Time Taken : 33051.244000 mSecs
+Latency : 330.512440 mSecs/mb
+ThroughPut : 3.025605 mb/sec
+
+Starting Disk Read Benchmarking for 2 thread(s)
+Sequential Read
+Block Size : 1
+Iterations : 100000000
+File Name : temp2
+Time Taken : 6227.178000 mSecs
+Latency : 31.135890 mSecs/mb
+ThroughPut : 32.117277 mb/sec
+
+Random Read
+Block Size : 1
+Iterations : 100000000
+File Name : temp2_rand
+Time Taken : 66775.969000 mSecs
+Latency : 333.879845 mSecs/mb
+ThroughPut : 2.995089 mb/sec
+
+Starting Disk Read Benchmarking for 1 thread(s)
+Sequential Read
+Block Size : 1024
+Iterations : 100000
+File Name : temp3
+Time Taken : 38.290000 mSecs
+Latency : 0.373926 mSecs/mb
+ThroughPut : 2674.327501 mb/sec
+
+Random Read
+Block Size : 1024
+Iterations : 100000
+File Name : temp3_rand
+Time Taken : 46.847000 mSecs
+Latency : 0.457490 mSecs/mb
+ThroughPut : 2185.839008 mb/sec
+
+Starting Disk Read Benchmarking for 2 thread(s)
+Sequential Read
+Block Size : 1024
+Iterations : 100000
+File Name : temp4
+Time Taken : 60.217000 mSecs
+Latency : 0.294028 mSecs/mb
+ThroughPut : 3401.032931 mb/sec
+
+Random Read
+Block Size : 1024
+Iterations : 100000
+File Name : temp4_rand
+Time Taken : 94.525000 mSecs
+Latency : 0.461548 mSecs/mb
+ThroughPut : 2166.622587 mb/sec
+
+Starting Disk Read Benchmarking for 1 thread(s)
+Sequential Read
+Block Size : 1048576
+Iterations : 100
+File Name : temp5
+Time Taken : 33.674000 mSecs
+Latency : 0.321140 mSecs/mb
+ThroughPut : 3113.903902 mb/sec
+
+Random Read
+Block Size : 1048576
+Iterations : 100
+File Name : temp5_rand
+Time Taken : 9.256000 mSecs
+Latency : 0.088272 mSecs/mb
+ThroughPut : 11328.608470 mb/sec
+
+Starting Disk Read Benchmarking for 2 thread(s)
+Sequential Read
+Block Size : 1048576
+Iterations : 100
+File Name : temp6
+Time Taken : 46.100000 mSecs
+Latency : 0.219822 mSecs/mb
+ThroughPut : 4549.136659 mb/sec
+
+Random Read
+Block Size : 1048576
+Iterations : 100
+File Name : temp6_rand
+Time Taken : 16.976000 mSecs
+Latency : 0.080948 mSecs/mb
+ThroughPut : 12353.628652 mb/sec
